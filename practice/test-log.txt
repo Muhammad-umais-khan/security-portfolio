@@ -1,0 +1,9 @@
+Server started successfully.
+Request GET /index.html returned status 200.
+Request GET /missing-page returned status 404.
+Health check returned status 200.
+Database connection failed with status 500.
+User profile loaded with status 200.
+Cache miss recorded at node 127.
+Request timed out with status 504.
+End of test log.

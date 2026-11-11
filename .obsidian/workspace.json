@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c191e40d8cf398a",
+        "id": "314013ff071aa32e",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba6e366e922a2fc",
+            "id": "32d8d012e9feb7cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8ce6ce66f785a82",
+  "active": "32d8d012e9feb7cd",
   "lastOpenFiles": [
+    "Untitled.base",
     "practice/practice week1.py",
     "practice",
     "Untitled Folder",
